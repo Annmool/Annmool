@@ -1,15 +1,177 @@
-# 💫 About Me:
-Hi, I'm Anmol, a passionate Full Stack Developer and a third-year student at IIITM Gwalior. I love building impactful projects that blend creativity with functionality. I'm currently diving deeper into Machine Learning, Data Science, and System Design, while also sharpening my skills in DSA.<br><br>🔭 I’m currently working on: Movie recommender systems & peer-to-peer networking apps<br><br>💻 Tech Stack: Node.js, Express, MongoDB, React, Python, MATLAB<br><br>🧠 Interests: Full Stack Dev, AI/ML, Networking, Probability & Statistics<br><br>📫 Reach me at: https://www.linkedin.com/in/anmol1yadav/<br><br>⚡ Fun fact: I enjoy turning complex ideas into real-world applications 🚀
 
+<div align="center">
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe Acrobat Reader](https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?style=for-the-badge&logo=Adobe%20Acrobat%20Reader&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Annmool&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Annmool&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Annmool&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=3000&pause=900&color=58A6FF&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Anmol+Yadav+%F0%9F%91%8B;I+build+things+under+the+hood.;Systems+%7C+AI+%7C+Open+Source;Curiosity+drives+the+build." alt="Typing introduction" />
+
+<br/>
+
+*I like understanding how things work — and then making them work better.*
+
+<br/>
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-visit-161B22?style=flat-square&logo=vercel&logoColor=white)](https://heyanmol.netlify.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-follow-161B22?style=flat-square&logo=github)](https://github.com/Annmool)
+[![FinIntel](https://img.shields.io/badge/FinIntel-explore-161B22?style=flat-square&logo=googleanalytics&logoColor=58A6FF)](https://finintel.pages.dev/)
+[![Email](https://img.shields.io/badge/Email-say%20hello-161B22?style=flat-square&logo=gmail&logoColor=EA4335)](mailto:aydv.tech@gmail.com)
+
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Annmool&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### `whoami`
+
+Not particularly interested in stopping at *"it works."*
+
+I want to know why it works, where it breaks, what the bottleneck is, and whether I can build it better.
+
+I spend my time exploring the intersection of:
+
+- ⚙️ **Systems engineering** — performance, concurrency, networking, and what's happening beneath abstractions.
+- 🧠 **AI & retrieval** — vector search, RAG, embeddings, and making information useful.
+- 📈 **Quantitative computing** — simulations, portfolio optimisation, and the mathematics behind financial decisions.
+- 🌐 **Open source** — reading real codebases, fixing things, and learning from systems built by others.
+
+Currently interested in backend engineering, distributed systems, applied AI, and the engineering challenges that connect them.
+
+---
+
+### `things i've built`
+
+<details open>
+<summary><b>⚡ VectorCore — search, built from the inside out</b></summary>
+
+<br/>
+
+A hands-on exploration of vector databases and retrieval systems. The goal: understand the machinery instead of treating it as a black box.
+
+- Implemented **Flat, IVF/K-Means, HNSW, BM25, scalar quantisation, and PQ-ADC** components.
+- Combined dense and sparse retrieval with reciprocal-rank fusion, reranking, and citation-grounded RAG.
+- Replaced repeated NumPy array reconstruction with capacity-doubling buffers.
+- Vectorised distance calculations and reduced redundant computation.
+
+**One benchmark, one useful lesson:**
+
+| Metric | Before | After |
+|---|---:|---:|
+| Build time · 1,000 × 32D vectors | 43.35 s | 2.06 s |
+| Query latency | 8.05 ms | 1.21 ms |
+
+<sub>Approximately 21× faster build time in this specific benchmark. Results depend on workload and configuration.</sub>
+
+</details>
+
+<details>
+<summary><b>📊 FinIntel — quantitative finance meets systems engineering</b></summary>
+
+<br/>
+
+[Explore FinIntel ↗](https://finintel.pages.dev/)
+
+A quantitative finance platform with a native C++ computation engine behind a web interface.
+
+- **C++20 + OpenMP** for parallel Monte Carlo simulation.
+- **Geometric Brownian Motion** for modelling asset-price paths.
+- **Cholesky decomposition** for correlated random shocks.
+- **VaR, CVaR, and maximum drawdown** for portfolio risk analysis.
+- **Markowitz optimisation** and efficient-frontier exploration.
+- React + Express.js + child-process IPC connecting the UI, API, and native engine.
+
+A project about more than finance: numerical computing, process boundaries, performance, and the trade-offs involved in putting them together.
+
+</details>
+
+<details>
+<summary><b>🔬 Q-RouteRL — quantum network routing research</b></summary>
+
+<br/>
+
+Exploring **reinforcement learning for constrained quantum network routing**, where routing decisions must account for more than just physical distance.
+
+The research direction involves:
+
+- Quantum-network modelling with distance, decoherence, and entanglement-swapping dynamics.
+- Classical routing baselines for reproducible comparisons.
+- A planned neuro-symbolic reinforcement-learning approach to constrained routing.
+
+**Current status:** The repository contains a simulator and classical routing baselines. A trained RL agent and variational quantum circuit are not yet implemented or evaluated.
+
+</details>
+
+<details>
+<summary><b>🔐 Komms — peer-to-peer file sharing</b></summary>
+
+<br/>
+
+A desktop file-sharing project exploring networking, secure transfers, and responsive interfaces.
+
+- TCP/UDP networking and chunked, multithreaded transfers.
+- RSA-2048 encryption and SHA-256 integrity verification.
+- PyQt6 thread-pool execution to keep the UI responsive.
+
+</details>
+
+---
+
+### `open source`
+
+I enjoy working in established codebases where the details matter.
+
+**Ceph ecosystem**
+
+- [ceph-nvmeof #1726](https://github.com/ceph/ceph-nvmeof/pull/1726) — structured certificate-validation logging and exception handling around gRPC channel setup.
+- [teuthology #2102](https://github.com/ceph/teuthology/pull/2102) — structured `failure_reason` schema.
+- [Ceph #68173](https://github.com/ceph/ceph/pull/68173) · [Ceph #67803](https://github.com/ceph/ceph/pull/67803)
+
+The interesting part of debugging isn't just finding the failure. It's making the next failure easier to understand.
+
+---
+
+### `my toolbox`
+
+<div align="center">
+
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+</div>
+
+**Also exploring:** HNSW · BM25 · RAG · OpenMP · WebSockets · distributed systems · Monte Carlo methods · quantitative risk
+
+---
+
+
+### `the github corner`
+
+<div align="center">
+
+<a href="https://github.com/Annmool">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Annmool&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub Stats" />
+</a>
+<a href="https://github.com/Annmool">
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Annmool&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" />
+</a>
+
+<br/>
+
+<img src="https://streak-stats.demolab.com/?user=Annmool&theme=github-dark-blue&hide_border=true" alt="GitHub Contribution Streak" />
+
+</div>
+
+
+<div align="center">
+
+### `always building. always learning.`
+
+*Understand the problem. Question the abstraction. Measure the result.*
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B22,100:1F6FEB&height=100&section=footer" width="100%" alt="Decorative animated-style footer" />
+
+</div>
